@@ -1,0 +1,30 @@
+
+
+.thumb-custom {
+    border:0;
+    padding: 0;
+}
+
+.card-custom {
+    border:0!important;    
+    padding: 10px 20px;
+ 
+}
+
+.card-custom a:hover{
+    opacity: .7;
+}
+
+.card-title-custom {
+    position: absolute;
+    width: calc(100% - 40px);
+    left: 20px;
+    bottom: 10px;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    box-sizing: border-box;
+}
+
